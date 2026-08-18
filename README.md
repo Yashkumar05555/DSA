@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Yashkumar05555/DSA/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Yashkumar05555/DSA/tree/master/0015-3sum) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Yashkumar05555/DSA/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Yashkumar05555/DSA/tree/master/0015-3sum) |
 ## Greedy
 |  |
 | ------- |
@@ -17,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Yashkumar05555/DSA/tree/master/0006-zigzag-conversion) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Yashkumar05555/DSA/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
