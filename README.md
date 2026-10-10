@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Yashkumar05555/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Yashkumar05555/DSA/tree/master/0015-3sum) |
+| [0746-min-cost-climbing-stairs](https://github.com/Yashkumar05555/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1386-cinema-seat-allocation](https://github.com/Yashkumar05555/DSA/tree/master/1386-cinema-seat-allocation) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Yashkumar05555/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Yashkumar05555/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3904-smallest-stable-index-ii](https://github.com/Yashkumar05555/DSA/tree/master/3904-smallest-stable-index-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0746-min-cost-climbing-stairs](https://github.com/Yashkumar05555/DSA/tree/master/0746-min-cost-climbing-stairs) |
 <!---LeetCode Topics End-->
